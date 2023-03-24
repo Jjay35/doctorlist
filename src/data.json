@@ -1,0 +1,67 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. John Smith",
+      "specialty": "Cardiology",
+      "area": "Los Angeles",
+      "review_score": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Dr. Jane Doe",
+      "specialty": "Cardiology",
+      "area": "San Francisco",
+      "review_score": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Dr. David Lee",
+      "specialty": "Dermatology",
+      "area": "New York",
+      "review_score": 4.3
+    },
+    {
+      "id": 4,
+      "name": "Dr. Emily Wong",
+      "specialty": "Dermatology",
+      "area": "San Francisco",
+      "review_score": 4.6
+    },
+    {
+      "id": 5,
+      "name": "Dr. Michael Kim",
+      "specialty": "Cardiology",
+      "area": "Los Angeles",
+      "review_score": 4.2
+    },
+    {
+      "id": 6,
+      "name": "Dr. Sarah Chen",
+      "specialty": "Dermatology",
+      "area": "San Francisco",
+      "review_score": 4.7
+    },
+    {
+      "id": 7,
+      "name": "Dr. James Park",
+      "specialty": "Dermatology",
+      "area": "New York",
+      "review_score": 4.5
+    },
+    {
+      "id": 8,
+      "name": "Dr. Lisa Kim",
+      "specialty": "Cardiology",
+      "area": "San Francisco",
+      "review_score": 4.9
+    },
+    {
+      "id": 9,
+      "name": "Dr. Rachel Lee",
+      "specialty": "Cardiology",
+      "area": "Los Angeles",
+      "review_score": 4.4
+    }
+  ]
+}
